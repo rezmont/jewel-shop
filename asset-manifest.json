@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/jewel-shop/static/css/main.d51ce19e.chunk.css",
+    "main.js": "/jewel-shop/static/js/main.40723ede.chunk.js",
+    "main.js.map": "/jewel-shop/static/js/main.40723ede.chunk.js.map",
+    "runtime-main.js": "/jewel-shop/static/js/runtime-main.cd67221f.js",
+    "runtime-main.js.map": "/jewel-shop/static/js/runtime-main.cd67221f.js.map",
+    "static/js/2.877774dc.chunk.js": "/jewel-shop/static/js/2.877774dc.chunk.js",
+    "static/js/2.877774dc.chunk.js.map": "/jewel-shop/static/js/2.877774dc.chunk.js.map",
+    "index.html": "/jewel-shop/index.html",
+    "precache-manifest.c23113238a2c857f80b21268c8c07072.js": "/jewel-shop/precache-manifest.c23113238a2c857f80b21268c8c07072.js",
+    "service-worker.js": "/jewel-shop/service-worker.js",
+    "static/css/main.d51ce19e.chunk.css.map": "/jewel-shop/static/css/main.d51ce19e.chunk.css.map",
+    "static/js/2.877774dc.chunk.js.LICENSE.txt": "/jewel-shop/static/js/2.877774dc.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/jewel-shop/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cd67221f.js",
+    "static/js/2.877774dc.chunk.js",
+    "static/css/main.d51ce19e.chunk.css",
+    "static/js/main.40723ede.chunk.js"
+  ]
+}
